@@ -1,0 +1,3 @@
+<?
+   echo "tuyen ngu";
+?>
